@@ -68,6 +68,7 @@ function mosaicGrid(selector,target) {
 
         updatedCss["height"] =  $(this).height()
         $(this).siblings(".img-description").css(updatedCss );
+        $(this).css("visibility","visible");
         $(this).off(e);
     }).each(function(){
     if(this.complete)

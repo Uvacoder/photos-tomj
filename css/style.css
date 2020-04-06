@@ -104,6 +104,9 @@ h5{
 	margin-bottom:100px;
 	opacity: 1;
 }
+.photo-grid img{
+	visibility: hidden;
+}
 /*Nav Styling*/
 nav{
 	width:300px;
