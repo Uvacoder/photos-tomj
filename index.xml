@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem Ipsum</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Lorem Ipsum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 09:51:20 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 06 Apr 2020 09:51:20 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis ornare lectus. Vivamus augue tortor, hendrerit non tellus at, consectetur eleifend nisl. Proin lacinia quam a elit facilisis ultrices. Maecenas luctus ipsum nec molestie interdum. Morbi rutrum in magna a congue. Duis eu consequat arcu. Nullam ut efficitur ex. Ut nunc nulla, mattis sit amet mauris at, rutrum consequat neque. Phasellus et porta risus, et lobortis lectus. Aliquam vestibulum in tellus non tempor.</description>
+    </item>
+    
+    <item>
+      <title>Berlin Appartments - Portra</title>
+      <link>http://example.org/posts/7/</link>
+      <pubDate>Sat, 04 Apr 2020 16:28:24 +0100</pubDate>
+      
+      <guid>http://example.org/posts/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin - Quiet bench</title>
+      <link>http://example.org/posts/6/</link>
+      <pubDate>Sat, 04 Apr 2020 16:28:22 +0100</pubDate>
+      
+      <guid>http://example.org/posts/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer Power - Expired Ektar 100</title>
+      <link>http://example.org/posts/5/</link>
+      <pubDate>Sat, 04 Apr 2020 16:28:20 +0100</pubDate>
+      
+      <guid>http://example.org/posts/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gate - Expired Ektar 100</title>
+      <link>http://example.org/posts/4/</link>
+      <pubDate>Sat, 04 Apr 2020 16:28:18 +0100</pubDate>
+      
+      <guid>http://example.org/posts/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Toro - Menorca - Portra 400 - Bronica C</title>
+      <link>http://example.org/posts/3/</link>
+      <pubDate>Sat, 04 Apr 2020 16:25:00 +0100</pubDate>
+      
+      <guid>http://example.org/posts/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utrectht - Colourplus 200 - Yashica Electro 35gt</title>
+      <link>http://example.org/posts/2/</link>
+      <pubDate>Sat, 04 Apr 2020 16:24:55 +0100</pubDate>
+      
+      <guid>http://example.org/posts/2/</guid>
+      <description>Hi</description>
+    </item>
+    
+    <item>
+      <title>Amsterdam Centraal - Colourplus 200 - Yashica Electro 35 GT</title>
+      <link>http://example.org/posts/1/</link>
+      <pubDate>Thu, 02 Apr 2020 21:44:26 +0100</pubDate>
+      
+      <guid>http://example.org/posts/1/</guid>
+      <description>Hello world</description>
+    </item>
+    
+  </channel>
+</rss>
