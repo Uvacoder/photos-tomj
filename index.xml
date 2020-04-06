@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lorem Ipsum</title>
+    <title>Tom Gray</title>
     <link>https://photos.tomjgray.com/</link>
-    <description>Recent content on Lorem Ipsum</description>
+    <description>Recent content on Tom Gray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2020 09:51:20 +0100</lastBuildDate>
@@ -12,75 +12,75 @@
     
     
     <item>
+      <title>Diptych - Nottingham</title>
+      <link>https://photos.tomjgray.com/posts/diptych_notts/</link>
+      <pubDate>Mon, 06 Apr 2020 16:37:49 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/diptych_notts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toppled</title>
+      <link>https://photos.tomjgray.com/posts/toppled/</link>
+      <pubDate>Mon, 06 Apr 2020 16:34:43 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/toppled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cave Hill</title>
+      <link>https://photos.tomjgray.com/posts/cave_hill/</link>
+      <pubDate>Mon, 06 Apr 2020 16:00:05 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/cave_hill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utrecht River</title>
+      <link>https://photos.tomjgray.com/posts/utrecht_river/</link>
+      <pubDate>Mon, 06 Apr 2020 15:53:27 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/utrecht_river/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Toro</title>
+      <link>https://photos.tomjgray.com/posts/monte_toro/</link>
+      <pubDate>Mon, 06 Apr 2020 15:53:10 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/monte_toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest Gate</title>
+      <link>https://photos.tomjgray.com/posts/gate/</link>
+      <pubDate>Mon, 06 Apr 2020 15:53:03 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/gate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin Appartments</title>
+      <link>https://photos.tomjgray.com/posts/berlin_appts/</link>
+      <pubDate>Mon, 06 Apr 2020 15:52:56 +0100</pubDate>
+      
+      <guid>https://photos.tomjgray.com/posts/berlin_appts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://photos.tomjgray.com/about/</link>
       <pubDate>Mon, 06 Apr 2020 09:51:20 +0100</pubDate>
       
       <guid>https://photos.tomjgray.com/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis ornare lectus. Vivamus augue tortor, hendrerit non tellus at, consectetur eleifend nisl. Proin lacinia quam a elit facilisis ultrices. Maecenas luctus ipsum nec molestie interdum. Morbi rutrum in magna a congue. Duis eu consequat arcu. Nullam ut efficitur ex. Ut nunc nulla, mattis sit amet mauris at, rutrum consequat neque. Phasellus et porta risus, et lobortis lectus. Aliquam vestibulum in tellus non tempor.</description>
-    </item>
-    
-    <item>
-      <title>Berlin Appartments - Portra</title>
-      <link>https://photos.tomjgray.com/posts/7/</link>
-      <pubDate>Sat, 04 Apr 2020 16:28:24 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Berlin - Quiet bench</title>
-      <link>https://photos.tomjgray.com/posts/6/</link>
-      <pubDate>Sat, 04 Apr 2020 16:28:22 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summer Power - Expired Ektar 100</title>
-      <link>https://photos.tomjgray.com/posts/5/</link>
-      <pubDate>Sat, 04 Apr 2020 16:28:20 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gate - Expired Ektar 100</title>
-      <link>https://photos.tomjgray.com/posts/4/</link>
-      <pubDate>Sat, 04 Apr 2020 16:28:18 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monte Toro - Menorca - Portra 400 - Bronica C</title>
-      <link>https://photos.tomjgray.com/posts/3/</link>
-      <pubDate>Sat, 04 Apr 2020 16:25:00 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utrectht - Colourplus 200 - Yashica Electro 35gt</title>
-      <link>https://photos.tomjgray.com/posts/2/</link>
-      <pubDate>Sat, 04 Apr 2020 16:24:55 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/2/</guid>
-      <description>Hi</description>
-    </item>
-    
-    <item>
-      <title>Amsterdam Centraal - Colourplus 200 - Yashica Electro 35 GT</title>
-      <link>https://photos.tomjgray.com/posts/1/</link>
-      <pubDate>Thu, 02 Apr 2020 21:44:26 +0100</pubDate>
-      
-      <guid>https://photos.tomjgray.com/posts/1/</guid>
-      <description>Hello world</description>
+      <description>I’m a Maths student at the University of Nottingham and have been into film photography since about 2016. I love travel photography and architectural photography and in the future I plan on focusing more on construction sites and abandoned buildings. I also run the darkroom for the University of Nottingham’s photography society which has allowed me to further explore the analog workflow and get into traditional black and white and colour printing which I’ve found to be a greatly enjoyable process that can lead to some beautiful results.</description>
     </item>
     
   </channel>

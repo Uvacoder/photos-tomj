@@ -46,7 +46,7 @@ function mosaicGrid(selector,target) {
         columns = 1;
     }
     else{
-        columns = 3;
+        columns = 2;
     }
     var cols = Array(columns).fill(0);
     var allTarget = $(selector).find(target);

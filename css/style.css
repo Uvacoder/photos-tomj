@@ -55,7 +55,7 @@ html,body{
 }
 h1,h2,h3,h4,h5,h6,p{
     color:#111;
-	font-family: 'Lora', serif;
+	font-family: 'Barlow', sans-serif;
 }
 h1{
     font-size:2em;
@@ -91,7 +91,7 @@ h5{
 }
 .img-description-content *{
 	color:#fff;
-	font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
 }
 .container .img-description:hover{
 	opacity: 1;
@@ -110,7 +110,7 @@ nav{
 	position:fixed;
 	left:0px;
 	/*top:0px;*/
-	font-family: 'Lora', serif;
+	font-family: 'Barlow', sans-serif;
 	font-size: 24px;
 	padding-left:10px;
 	padding-top: 10px;
