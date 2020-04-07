@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="438d1440-b993-4eec-96da-fe3dd0f7d91f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/photo_theme" />
+  </component>
+  <component name="ProjectId" id="1a06OjWclB9pDlhWlv5qqPF0FQu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hugo-photo-theme-site" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/photo_theme/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="438d1440-b993-4eec-96da-fe3dd0f7d91f" name="Default Changelist" comment="" />
+      <created>1585860133847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585860133847</updated>
+      <workItem from="1585860137426" duration="36425000" />
+    </task>
+    <task id="LOCAL-00001" summary="Using JS to make photo grid">
+      <created>1586018270157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586018270157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added padding between images">
+      <created>1586079155464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586079155464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added navigation to side and moved title to sidebar">
+      <created>1586081247688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586081247688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added media queries for all that good responsive shit">
+      <created>1586162847844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586162847844</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added in image description to show post title on hover">
+      <created>1586168899141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586168899141</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added README in">
+      <created>1586171501648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586171501648</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.toml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Using JS to make photo grid" />
+    <MESSAGE value="Added padding between images" />
+    <MESSAGE value="Added navigation to side and moved title to sidebar" />
+    <MESSAGE value="Added media queries for all that good responsive shit" />
+    <MESSAGE value="Added in image description to show post title on hover" />
+    <MESSAGE value="Added README in" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README in" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="43" width="1087" height="921" key="CommitChangelistDialog2" timestamp="1586171501595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="479" y="43" width="1087" height="921" key="CommitChangelistDialog2/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586171501595" />
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl" timestamp="1586172867693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="258" width="428" height="476" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586172867693" />
+    <state x="619" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1585860137928">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="619" y="327" key="com.intellij.ide.util.TipDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585860137928" />
+  </component>
+</project>
