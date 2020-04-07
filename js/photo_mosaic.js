@@ -56,7 +56,6 @@ function mosaicGrid(selector,target) {
         return;
     allTarget.one('load', function(e){
         var pos = minPos(cols);
-        console.log("loading")
         var x = pos * (imgWidth + padding);
         var y = cols[pos];
 
