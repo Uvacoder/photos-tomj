@@ -168,10 +168,27 @@ a:active{
 #text-post p{
 	margin-bottom:20px;
 }
-#text-post img{
+.container#text-post img{
 	max-width:95%;
+	position:inherit;
+	margin: 20px 0px;
 }
-
+.container#text-post figure{
+	/*max-width: 95%;*/
+}
+.container#text-post figure img{
+	margin-bottom: 0px;
+	max-width: 100%;
+	display: block;
+}
+.container#text-post figure figcaption{
+	background-color: #D0D0D0;
+	line-height: 2em;
+	padding:10px;
+}
+.container#text-post figure{
+	margin-bottom: 20px;
+}
 /*Media queries*/
 @media only screen and (max-width: 619px) {
 	nav{
